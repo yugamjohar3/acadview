@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .AddInfo {
   margin: 10px auto;
   border: 2px solid #eee;
@@ -23,3 +24,30 @@
 .button{
   margin-left: 50px;
 }
+=======
+.AddInfo {
+  margin: 10px auto;
+  border: 2px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 320px;
+  padding: 20px;
+  height: 100px;
+}
+
+.AddInfo label {
+  padding-right: 2px;
+  padding-bottom: 2px;
+}
+
+.AddInfo button {
+  float: right;
+}
+
+.AddInfo input {
+  margin: 2px;
+}
+
+.button{
+  margin-left: 50px;
+}
+>>>>>>> bea68f5158a93c9f6b1ff84960a820e13a52748e

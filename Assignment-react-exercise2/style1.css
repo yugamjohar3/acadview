@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App{
   text-align: center;
   margin-top: 90px;
@@ -37,3 +38,44 @@
   font-size: 20px;
 
 }
+=======
+.App{
+  text-align: center;
+  margin-top: 90px;
+}
+.h1{
+  font-style: bold;
+  font-size: 50px;
+}
+.div2{
+  width: 550px;
+  height: 200px;
+  border-style: inset;
+  margin-left: 500px;
+  border-radius: 10px;
+}
+.div3{
+  margin-top: 20px;
+  width: 550px;
+  height: 200px;
+  border-style: inset;
+  margin-left: 500px;
+  border-radius: 10px;
+}
+.h3{
+  font-style: cursive;
+  font-size: 25px;
+}
+.input{
+  border: 2px outset;
+  height: 25px;
+  width: 200px;
+  border-radius: 5px;
+}
+.detail{
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+>>>>>>> bea68f5158a93c9f6b1ff84960a820e13a52748e
